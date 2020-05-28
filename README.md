@@ -1,6 +1,6 @@
-# OSINT Framework
+# Penetration Testing Framework
 
-http://osintframework.com
+http://alexpacket.com/PenetrationTestingFramework
 
 ## Notes
 OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
@@ -9,7 +9,7 @@ I originally created this framework with an information security point of view. 
 
 Please visit the framework at the link below and good hunting!
 
-https://osintframework.com
+http://alexpacket.com/PenetrationTestingFramework
 
 ### Legend
 (T) - Indicates a link to a tool that must be installed and run locally  
@@ -18,8 +18,8 @@ https://osintframework.com
 (M) - Indicates a URL that contains the search term and the URL itself must be edited manually  
 
 ### For Update Notifications
-Follow me on Twitter: @jnordine - https://twitter.com/jnordine  
-Watch or star the project on Github: https://github.com/lockfale/osint-framework
+Follow me on Twitter: @jnordine - https://twitter.com/alexpacket 
+Watch or star the project on Github: https://github.com/alexpacket/PenetrationTestingFramework
 
 ### Suggestions, Comments, Feedback
 Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github or reach out on Twitter.
@@ -44,8 +44,8 @@ For new resources, please ensure that the site is available for public and free 
 
 Thank you!
 
-## OSINT Framework Website
+## Penetration Testing Framework Website
 
-https://osintframework.com
+http://alexpacket.com/PenetrationTestingFramework
 
 Happy Hunting!
